@@ -19,7 +19,7 @@ module.exports = {
         // Dark mode
         darkbg: '#111827',       // Dark background
         darktext: '#f3f4f6',     // Light text for readability on dark
-        darkcard: '#1f2937',     // Card background in dark mode
+        darkcard: '#1e293b',     // Card background in dark mode
         darkmuted: '#9ca3af',    // Subtext in dark mode (gray-400)
       },
       fontFamily: {
